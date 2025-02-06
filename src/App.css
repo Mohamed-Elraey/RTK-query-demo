@@ -1,0 +1,13 @@
+body {
+  /* padding: 16px; */
+  background-color: #ffffff;
+}
+.cardHover {
+  border: 2px solid transparent;
+}
+
+.cardHover:hover {
+  border-color: rgb(25, 35, 75);
+  border-width: 2px;
+  transition: border-color 0.3s ease-in-out, border-width 0.3s ease-in-out;
+}
