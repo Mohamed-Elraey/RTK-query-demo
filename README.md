@@ -1,6 +1,6 @@
-Implementing Mock APIs and UI in React with RTK-Query Using JSONPlaceholder 
+Calling Mock APIs in React with RTK-Query Using JSONPlaceholder and using Material UI for implementing the design
 
-Link for the api : 'https://jsonplaceholder.typicode.com'
+Link for the api : https://jsonplaceholder.typicode.com
 
 Features :
  
