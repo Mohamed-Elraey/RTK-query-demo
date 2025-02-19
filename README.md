@@ -10,7 +10,7 @@ Link for the api : https://jsonplaceholder.typicode.com
 
 <h1> Preview </h1>
 
-https://drive.google.com/drive/folders/13pLKhXviKlF71aNpGUquYFZnh9yG4o-s
+https://drive.google.com/file/d/1s0vR9tLvHvx0vArkyIryupcP9BubQq_A/view?usp=sharing
 
 <h1>Features</h1>
  
