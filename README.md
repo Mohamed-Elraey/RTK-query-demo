@@ -8,6 +8,10 @@ Calling Mock APIs in React with RTK-Query Using JSONPlaceholder and using Materi
 
 Link for the api : https://jsonplaceholder.typicode.com
 
+<h1> Preview </h1>
+
+https://drive.google.com/drive/folders/13pLKhXviKlF71aNpGUquYFZnh9yG4o-s
+
 <h1>Features</h1>
  
 -Get all posts
