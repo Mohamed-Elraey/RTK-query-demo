@@ -26,12 +26,12 @@ The **Redux Toolkit (RTK)** is used for managing the posts state.
 
 # Helpers
 
+### JSON Placeholder
 **JSONPlaceholder** is a free, online REST API that provides placeholder data for testing and development purposes.
 
 Link for the api : https://jsonplaceholder.typicode.com
 
-
-## UI Components
+### UI Components
 
 The user interface is built using **Material-UI (MUI)** components for a modern and responsive design.
 
