@@ -7,8 +7,6 @@ CRUD application for managing posts, It is built using React and Redux Toolkit Q
 
 This project was developed as part of the internship program at [syntheia](https://syntheia.io/)
 
-This project utilizes Redux Toolkit (RTK) for managing state efficiently. RTK Query is used to handle asynchronous API calls and caching.
-
 
 <h1>Features</h1>
  
@@ -24,7 +22,7 @@ This project utilizes Redux Toolkit (RTK) for managing state efficiently. RTK Qu
 
 # State Management
 
-The **Redux Toolkit (RTK)** is used for managing the posts state.
+This project utilizes **Redux Toolkit (RTK)** for managing state efficiently. RTK Query is used to handle asynchronous API calls and caching.
 
 # Helpers
 
