@@ -35,7 +35,7 @@ API Documentation Link : https://jsonplaceholder.typicode.com
 
 The user interface is built using **Material-UI (MUI)** components for a modern and responsive design.
 
-link for the design implemented : [link for the design implemented](https://www.figma.com/design/hK5Qq5LVPZeSqz0kIfdr79/Form?node-id=0-1&p=f)
+[link for the design implemented](https://www.figma.com/design/hK5Qq5LVPZeSqz0kIfdr79/Form?node-id=0-1&p=f)
 
 <h1> Preview </h1>
 
